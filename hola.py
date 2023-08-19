@@ -1,4 +1,7 @@
 # Archivo de prueba para sincronización entre repositorios
 
-if __name__ == "__main__":
+def saludo():
     print('Hola mundo')
+
+if __name__ == "__main__":
+    saludo()
